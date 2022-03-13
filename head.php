@@ -15,7 +15,7 @@
     <meta property="og:title" content="Latest Track: Bihar Sharif(India) based premier GPS Company" />
     <meta property="og:description" content="Latest Track: Bihar Sharif(India) based premier GPS Company." />
     <meta property="og:url" content="https://latesttrack.co.in/" />
-    <meta property="og:image" content="https://latesttrack.co.in/assets/img/LL-TRACK.png" />
+    <meta property="og:image" content="https://latesttrack.co.in/assets/img/fav.png" />
     <meta property="og:type" content="website" />
     <meta property="og:image:alt" content="Easy Tracking" />
     <!-- facebook open graph tool ends-->
