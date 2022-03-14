@@ -47,7 +47,7 @@
                   <div class="product-right-box">
                     <!-- <div class="product-right-trending">Trending</div> -->
                     <!-- <div class="product-right-off">15% off</div> -->
-                    <div class="product-right-box-img"><img alt="Latest Track Concox v5" src="assets/img/products/gps/V5.jpeg"></div>
+                    <div class="product-right-box-img"><img alt="Latest Track Concox v5" src="assets/img/products/gps/V5.jpeg" height="400"></div>
                     <div class="product-right-box-title">V5</div>
                     <div class="product-right-box-text">#Vehicle #Luggage #Employee #wireless #TrackEveryThing</div>
                     <div class="product-right-box-bottom">
@@ -64,7 +64,7 @@ CatFilter">
                 <a href="#contactform">
                   <div class="product-right-box">
                     <!-- <div class="product-right-off">43% off</div> -->
-                    <div class="product-right-box-img"><img alt="Latest Track GT06E" src="assets/img/products/gps/EV02.jpeg" height="300"></div>
+                    <div class="product-right-box-img"><img alt="Latest Track GT06E" src="assets/img/products/gps/EV02.jpeg" height="400"></div>
                     <div class="product-right-box-title">EV02</div>
                     <div class="product-right-box-text">#Bike #Car #Truck</div>
                     <div class="product-right-box-bottom">
@@ -80,7 +80,7 @@ CatFilter">
                 <a href="#contactform">
                   <div class="product-right-box">
                     <!-- <div class="product-right-off">25% off</div> -->
-                    <div class="product-right-box-img"><img alt="Latest Track GT08" src="assets/img/products/gps/GS03.jpeg"></div>
+                    <div class="product-right-box-img"><img alt="Latest Track GT08" src="assets/img/products/gps/GS03.jpeg" height="400"></div>
                     <div class="product-right-box-title">GS03</div>
                     <div class="product-right-box-text">#Bike #Car #Truck #EngineLock</div>
                     <div class="product-right-box-bottom">
@@ -96,7 +96,7 @@ CatFilter">
                 <a href="#contactform">
                   <div class="product-right-box">
                     <!-- <div class="product-right-off">25% off</div> -->
-                    <div class="product-right-box-img"><img alt="Latest Track GT08" src="assets/img/products/gps/VT08S.jpeg"></div>
+                    <div class="product-right-box-img"><img alt="Latest Track GT08" src="assets/img/products/gps/VT08S.jpeg" height="400"></div>
                     <div class="product-right-box-title">VT08S</div>
                     <div class="product-right-box-text">#Bike #Car #Truck #EngineLock</div>
                     <div class="product-right-box-bottom">
