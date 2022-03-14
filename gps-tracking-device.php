@@ -47,8 +47,8 @@
                   <div class="product-right-box">
                     <!-- <div class="product-right-trending">Trending</div> -->
                     <!-- <div class="product-right-off">15% off</div> -->
-                    <div class="product-right-box-img"><img alt="Latest Track Concox v5" src="assets/img/products/gps/v5.jpg"></div>
-                    <div class="product-right-box-title">Concox v5</div>
+                    <div class="product-right-box-img"><img alt="Latest Track Concox v5" src="assets/img/products/gps/V5.jpeg"></div>
+                    <div class="product-right-box-title">V5</div>
                     <div class="product-right-box-text">#Vehicle #Luggage #Employee #wireless #TrackEveryThing</div>
                     <div class="product-right-box-bottom">
                       <!-- <div class="product-right-box-price">₹ 4499/-</div> -->
@@ -64,8 +64,8 @@ CatFilter">
                 <a href="#contactform">
                   <div class="product-right-box">
                     <!-- <div class="product-right-off">43% off</div> -->
-                    <div class="product-right-box-img"><img alt="Latest Track GT06E" src="assets/img/products/gps/GT06E.png"></div>
-                    <div class="product-right-box-title">GT06E</div>
+                    <div class="product-right-box-img"><img alt="Latest Track GT06E" src="assets/img/products/gps/EV02.jpeg"></div>
+                    <div class="product-right-box-title">EV02</div>
                     <div class="product-right-box-text">#Bike #Car #Truck</div>
                     <div class="product-right-box-bottom">
                       <!-- <div class="product-right-box-price">₹ 7999/-</div> -->
@@ -80,8 +80,24 @@ CatFilter">
                 <a href="#contactform">
                   <div class="product-right-box">
                     <!-- <div class="product-right-off">25% off</div> -->
-                    <div class="product-right-box-img"><img alt="Latest Track GT08" src="assets/img/products/gps/gt08.png"></div>
-                    <div class="product-right-box-title">GT08 Vehicle GPS Tracker</div>
+                    <div class="product-right-box-img"><img alt="Latest Track GT08" src="assets/img/products/gps/GS03.jpeg"></div>
+                    <div class="product-right-box-title">GS03</div>
+                    <div class="product-right-box-text">#Bike #Car #Truck #EngineLock</div>
+                    <div class="product-right-box-bottom">
+                      <!-- <div class="product-right-box-price">₹ 5499/-</div> -->
+                      <a href="#contactform" class="product-right-box-cart">Buy Now</a>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <!-- ends -->
+               <!-- starts -->
+               <div class="col-md-6 col-lg-6 col-xl-4 col-sm-12 col-12 CatFilter personal inbuilt_battery CatFilter">
+                <a href="#contactform">
+                  <div class="product-right-box">
+                    <!-- <div class="product-right-off">25% off</div> -->
+                    <div class="product-right-box-img"><img alt="Latest Track GT08" src="assets/img/products/gps/VT08S.jpeg"></div>
+                    <div class="product-right-box-title">VT08S</div>
                     <div class="product-right-box-text">#Bike #Car #Truck #EngineLock</div>
                     <div class="product-right-box-bottom">
                       <!-- <div class="product-right-box-price">₹ 5499/-</div> -->
