@@ -18,12 +18,12 @@
                             </div>
                         </div>
                     </a>
-                    <a target="_blank" href="https://api.whatsapp.com/send/?phone=917004175204">
+                    <a target="_blank" href="https://api.whatsapp.com/send/?phone=919386829996">
                         <div class="contact-left-bottom-first">
                             <span><img src="assets/img/call-icon.svg"></span>
                             <div class="contact-left-bottom-first-right">
                                 <div class="contact-left-bottom-first-right-text">WhatsApp</div>
-                                <div class="contact-left-bottom-first-right-link">+91-70041-75204</div>
+                                <div class="contact-left-bottom-first-right-link">+91-93868-29996</div>
                             </div>
                         </div>
                     </a>
