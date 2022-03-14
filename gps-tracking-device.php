@@ -64,7 +64,7 @@ CatFilter">
                 <a href="#contactform">
                   <div class="product-right-box">
                     <!-- <div class="product-right-off">43% off</div> -->
-                    <div class="product-right-box-img"><img alt="Latest Track GT06E" src="assets/img/products/gps/EV02.jpeg"></div>
+                    <div class="product-right-box-img"><img alt="Latest Track GT06E" src="assets/img/products/gps/EV02.jpeg" height="300"></div>
                     <div class="product-right-box-title">EV02</div>
                     <div class="product-right-box-text">#Bike #Car #Truck</div>
                     <div class="product-right-box-bottom">
