@@ -51,7 +51,7 @@
                     <div class="product-right-box-title">Concox v5</div>
                     <div class="product-right-box-text">#Vehicle #Luggage #Employee #wireless #TrackEveryThing</div>
                     <div class="product-right-box-bottom">
-                      <div class="product-right-box-price">₹ 4499/-</div>
+                      <!-- <div class="product-right-box-price">₹ 4499/-</div> -->
                       <a href="#contactform" class="product-right-box-cart">Buy Now</a>
                     </div>
                   </div>
@@ -68,7 +68,7 @@ CatFilter">
                     <div class="product-right-box-title">GT06E</div>
                     <div class="product-right-box-text">#Bike #Car #Truck</div>
                     <div class="product-right-box-bottom">
-                      <div class="product-right-box-price">₹ 7999/-</div>
+                      <!-- <div class="product-right-box-price">₹ 7999/-</div> -->
                       <a href="#contactform" class="product-right-box-cart">Buy Now</a>
                     </div>
                   </div>
@@ -84,7 +84,7 @@ CatFilter">
                     <div class="product-right-box-title">GT08 Vehicle GPS Tracker</div>
                     <div class="product-right-box-text">#Bike #Car #Truck #EngineLock</div>
                     <div class="product-right-box-bottom">
-                      <div class="product-right-box-price">₹ 5499/-</div>
+                      <!-- <div class="product-right-box-price">₹ 5499/-</div> -->
                       <a href="#contactform" class="product-right-box-cart">Buy Now</a>
                     </div>
                   </div>
