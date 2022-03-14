@@ -157,8 +157,8 @@ of your loved ones.">
                 <div class="item ">
                     <a href="#contactform">
                         <div class="product-slider-box">
-                            <div class="product-slider-img"><img height="300px;" alt="Latest Track Concox v5" src="assets/img/products/gps/v5.jpg"></div>
-                            <div class="product-slider-title">Concox v5</div>
+                            <div class="product-slider-img"><img height="300px;" alt="Latest Track Concox v5" src="assets/img/products/gps/V5.jpeg"></div>
+                            <div class="product-slider-title">V5</div>
                             <div class="product-slider-text">#Vehicle #Luggage #Employee #wireless #TrackEveryThing
                             </div>
                             <!-- <div class="product-slider-price">₹ 4499/-</div> -->
@@ -169,8 +169,8 @@ of your loved ones.">
                 <div class="item ">
                     <a href="#contactform">
                         <div class="product-slider-box">
-                            <div class="product-slider-img"><img height="300px;" alt="Latest Track GT06E" src="assets/img/products/gps/GT06E.png"></div>
-                            <div class="product-slider-title">GT06E</div>
+                            <div class="product-slider-img"><img height="300px;" alt="Latest Track GT06E" src="assets/img/products/gps/EV02.jpeg"></div>
+                            <div class="product-slider-title">EV02</div>
                             <div class="product-slider-text">#Bike #Car #Truck</div>
                             <!-- <div class="product-slider-price">₹ 7999/-</div> -->
                             <div class="product-slider-knowmore">Buy Now <span><img alt="arrow white" src="assets/img/arrow-white.png"></span></div>
@@ -180,8 +180,19 @@ of your loved ones.">
                 <div class="item ">
                     <a href="#contactform">
                         <div class="product-slider-box">
-                            <div class="product-slider-img"><img height="300px;" alt="Latest Track GT08" src="assets/img/products/gps/gt08.png"></div>
-                            <div class="product-slider-title">GT08 Vehicle GPS Tracker</div>
+                            <div class="product-slider-img"><img height="300px;" alt="Latest Track GT08" src="assets/img/products/gps/GS03.jpeg"></div>
+                            <div class="product-slider-title">GS03</div>
+                            <div class="product-slider-text">#Bike #Car #Truck #EngineLock</div>
+                            <!-- <div class="product-slider-price">₹ 5499/-</div> -->
+                            <div class="product-slider-knowmore">Buy Now <span><img alt="arrow white" src="assets/img/arrow-white.png"></span></div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item ">
+                    <a href="#contactform">
+                        <div class="product-slider-box">
+                            <div class="product-slider-img"><img height="300px;" alt="Latest Track GT08" src="assets/img/products/gps/VT08S.jpeg"></div>
+                            <div class="product-slider-title">VT08S</div>
                             <div class="product-slider-text">#Bike #Car #Truck #EngineLock</div>
                             <!-- <div class="product-slider-price">₹ 5499/-</div> -->
                             <div class="product-slider-knowmore">Buy Now <span><img alt="arrow white" src="assets/img/arrow-white.png"></span></div>
